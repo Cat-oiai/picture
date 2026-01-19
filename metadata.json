@@ -1,0 +1,5 @@
+{
+  "name": "Smart Sketch Contour Extractor",
+  "description": "An intelligent tool that extracts hand-drawn sketches from paper, creating clean black-and-white digital assets with transparent backgrounds.",
+  "requestFramePermissions": []
+}
