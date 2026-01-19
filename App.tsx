@@ -1,6 +1,6 @@
 
 import React, { useState, useCallback } from 'react';
-import { ImageProcessor } from './services/imageProcessor';
+import { ImageProcessor } from './imageProcessor';
 import { ProcessingState } from './types';
 
 const App: React.FC = () => {
